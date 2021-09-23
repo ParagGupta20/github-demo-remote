@@ -3,7 +3,7 @@ def add(x,y):
 	return x+y
 #Sub implementation
 def sub(x,y):
-	pass
+	return x-y		#from remote repositey
 #Mul implementation
 def mul(x,y):
 	pass
