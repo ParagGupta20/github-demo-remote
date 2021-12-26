@@ -1,0 +1,14 @@
+.d-block{
+  height: 70vh;
+  border-radius: 5px;
+
+}
+.img-responsive{
+  border-radius: 400px;
+  height:40vh;
+  border: black solid 0.5ch;
+}
+
+.carousel-caption{
+  margin-bottom: "20em" 
+}

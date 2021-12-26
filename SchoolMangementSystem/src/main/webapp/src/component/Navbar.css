@@ -1,0 +1,25 @@
+.navbar-nav {
+    margin-right: 0 !important;
+    padding-right: 10px;
+  }
+   
+  .navbar {
+    background: black;
+  }
+   
+  .nav-item a {
+    color: white !important;
+  }
+   
+  .nav-item {
+    padding-left: 2px;
+  }
+   
+  .navbar-brand {
+    color: white !important;
+    padding-left: 100px;
+  }
+   
+  #navbar button {
+    color: white !important;
+  }
